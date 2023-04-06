@@ -1,7 +1,9 @@
-@article{M_DCN,
-  title={Multi-scale Dynamic Convolutional Network for Knowledge Graph Embedding},
-  author={Zhang, Zhaoli and Li, Zhifei and Liu, Hai and Xiong, Neal N},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2020},
-  publisher={IEEE}
+@article{M-DCN,
+   author = {Zhang, Z. and Li, Z. and Liu, H. and Xiong, N. N.},
+   title = {Multi-Scale Dynamic Convolutional Network for Knowledge Graph Embedding},
+   journal = {IEEE Transactions on Knowledge and Data Engineering},
+   volume = {34},
+   number = {5},
+   pages = {2335-2347},
+   year = {2022}
 }
